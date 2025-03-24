@@ -1,2 +1,2 @@
 # chatportal-django
-chat portal-React -Django okk
+chat portal-React -Django okk ok
